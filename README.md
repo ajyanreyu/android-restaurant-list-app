@@ -9,6 +9,7 @@ _Simple android application used to understand the elements Fragment, Recycle Vi
 * [RecycleView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 * [Android JetPack](https://developer.android.com/jetpack)
 * [Android Studio](https://developer.android.com/studio) - Android IDE
+* [Color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 
 ## Wiki 📖️
 
