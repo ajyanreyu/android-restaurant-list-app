@@ -1,9 +1,7 @@
 # Simple Restautant APP
 _Simple android application used to understand the elements Fragment, Recycle View, Card View and look & Feel._
 
-## Construido con 🛠️
-
-_Built with _
+## Built with 🛠️
 
 * [Picasso](https://square.github.io/picasso/) - A powerful image downloading and caching library for Android
 * [CardView](https://developer.android.com/guide/topics/ui/layout/cardview) - The system provides the CardView API as an easy way for you show information inside cards that have a consistent look across the platform
